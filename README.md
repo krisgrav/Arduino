@@ -1,2 +1,2 @@
 # Arduino
-Various hobby-projects with Arduino
+Various projects with Arduino
